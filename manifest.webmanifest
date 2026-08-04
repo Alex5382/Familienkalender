@@ -1,6 +1,6 @@
 {
-  "name": "Unser Kalender",
-  "short_name": "Kalender",
+  "name": "Unser Kalender – Familie Adam",
+  "short_name": "Adam",
   "start_url": "./familienkalender.html",
   "scope": "./",
   "display": "standalone",
