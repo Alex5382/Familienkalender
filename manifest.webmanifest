@@ -2,11 +2,9 @@
   "name": "Unser Kalender – Familie Adam",
   "short_name": "Adam",
   "start_url": "./familienkalender.html",
-  "scope": "./",
   "display": "standalone",
   "background_color": "#F7F6F2",
   "theme_color": "#175E54",
-  "lang": "de",
   "icons": [
     {
       "src": "icon-192.png",
@@ -16,8 +14,7 @@
     {
       "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
